@@ -3,7 +3,7 @@
 
 ## Descrição
 
-O **Filtrador** é um aplicativo simples desenvolvido em Python que utiliza as bibliotecas `OpenCV`, `tkinter`, `PIL`, e `numpy` para aplicar uma série de filtros em imagens. Ele permite que o usuário carregue imagens ou pastas contendo imagens e aplique diferentes filtros definidos por um arquivo de texto, além de realizar operações bitwise entre a imagem original e a filtrada.
+O **Filtrador** é um aplicativo desenvolvido em Python que utiliza as bibliotecas `OpenCV`, `tkinter`, `PIL`, e `numpy` para aplicar uma série de filtros em imagens. Ele permite que o usuário carregue imagens ou pastas contendo imagens e aplique diferentes filtros definidos por um arquivo de texto, além de realizar operações bitwise entre a imagem original e a filtrada.
 
 ## Funcionalidades
 
